@@ -107,7 +107,7 @@ linux-threat-detection/
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Sujal879/linux-threat-detection.git
 cd linux-threat-detection
 ```
 
