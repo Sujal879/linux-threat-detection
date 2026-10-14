@@ -1,0 +1,10 @@
+{
+    "ssh_failed_login": {
+        "window_seconds": 300,
+        "thresholds": {
+            "low": 5,
+            "medium": 10,
+            "high": 15
+        }
+    }
+}
